@@ -2,7 +2,7 @@
     "name": "component",
     "version": "1.0.0",
     "description": "just for fun",
-    "main": "index.ts",
+    "main": "src/index.ts",
     "author": "steiner",
     "repositroy": {
 	"url": "https://github.com/nesteiner/component.git",
